@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 767px) {
-    .footer__links {        
+    .footer__links {
         display: grid;
         gap: 32px;
     }

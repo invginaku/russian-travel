@@ -1,5 +1,4 @@
 .lead__title {
-    font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
@@ -13,13 +12,11 @@
 }
 
 @media screen and (max-width: 1279px) {
-    .lead__title {
-    }
+    .lead__title {}
 }
 
 @media screen and (max-width: 1023px) {
-    .lead__title {
-    }
+    .lead__title {}
 }
 
 @media screen and (max-width: 767px) {

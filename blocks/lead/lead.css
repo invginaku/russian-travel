@@ -13,11 +13,9 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .lead {
-    }
+    .lead {}
 }
 
 @media screen and (max-width: 767px) {
-    .lead {
-    }
+    .lead {}
 }
