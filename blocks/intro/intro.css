@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .intro {        
+    .intro {
         margin-left: 24px;
-        }
     }
+}
 
 @media screen and (max-width: 767px) {
-.intro {        
-    margin: 64px 16px 0px;
+    .intro {
+        margin: 64px 16px 0px;
     }
 }
